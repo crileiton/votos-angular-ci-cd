@@ -52,10 +52,10 @@ jobs:
           #base_href: /venta-empresa/
           # branch on which the angular build will be deployed
           # optional, default is gh-pages
-          #deploy_branch: gh-pages
+          deploy_branch: master
           # The folder in which `ng build` provides its output. This is the folder which will be deployed to the `deploy_branch`.
           # optional, default is dist
-          #angular_dist_build_folder: dist/votos-angular-ci-cd
+          angular_dist_build_folder: dist/angular-links-vote-app
           # If the action should run 'ng lint'
           #run_lint: # optional
           # Will not fail the step if anything fails
