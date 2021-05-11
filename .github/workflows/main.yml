@@ -49,7 +49,7 @@ jobs:
           # base href for the app
           # optional, default is /
           # make sure this corresponds to https://<your_username>.github.io/<base_href>/
-          #base_href: /venta-empresa/
+          base_href: /votos-angular-ci-cd/
           # branch on which the angular build will be deployed
           # optional, default is gh-pages
           deploy_branch: master
